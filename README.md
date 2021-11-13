@@ -11,7 +11,9 @@ The Project aim to engage all the stakeholders involved into the ecommerce proce
 The main outcome of the projects are:
 - Standard API and Data Format for PUDO Discovery, Identification and Use 
 - Standard Behavioural guidelines for Event Management
-- Integration into the main e-commerce software, extending Checkout Experience in a Environmentally oriented way
+- Integration into the main e-commerce software
+ 
+We aim to extend the standard Checkout Experience in a Environmentally oriented way, facilitating users and e-commerce sites to prefer PUDO delivery as their default, environmentally savy delivery preference.
 
 The outcome of the API is meant to be flexible and developers oriented with:
 - Swagger Technical Definition for a modern REST/JSON couple
