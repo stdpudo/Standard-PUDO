@@ -19,8 +19,9 @@ The outcome of the API is meant to be flexible and developers oriented with:
 
 We aim to break with any legacy approach, such as [UPU Standards](https://www.upu.int/en/Postal-Solutions/Programmes-Services/Standards) used by Postal Operators or commonly used SOAP/XML used by Couriers.
 
-The working specification document is reachable here:
-https://docs.google.com/document/d/15HAntpEQuJBYI111P9xUhHdz7zFXTB3_ujNev7ztTYs/edit?usp=sharing
+Here's the [working specification document](https://docs.google.com/document/d/15HAntpEQuJBYI111P9xUhHdz7zFXTB3_ujNev7ztTYs) .
+
+
 
 
 ### EXAMPLE FORMATTING
